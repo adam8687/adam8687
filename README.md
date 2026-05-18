@@ -67,7 +67,13 @@ CS student at UT Austin passionate about robotics, machine learning, and buildin
 
 ## Projects
 
-**Scholarship Finder iOS App** &nbsp;`Dec 2023 – May 2025`
+**[UTransport](https://github.com/adam8687/UTransport)** &nbsp;`Spring 2026` &nbsp;![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+> Real-time campus transportation request app for UT Austin — connecting students with SureWalk escorts and PTS medical pickups through a live dispatch interface. Built with Expo, React Native, Firebase Firestore real-time listeners, and animated route simulation. Built for Texas Convergent Spring 2026.
+
+**[PRISM](https://github.com/adam8687/PRISM)** &nbsp;`2026` &nbsp;![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![MuJoCo](https://img.shields.io/badge/MuJoCo-00897B?style=flat-square&logoColor=white)
+> Robotics imitation-learning project built around Robosuite + MuJoCo. Collects keyboard teleoperation demonstrations, stores trajectories in HDF5 format, trains a Behavioral Cloning policy with PyTorch, and evaluates it in simulation. Part of Texas Robotics FRI research.
+
+**[Scholarship Finder iOS App](https://github.com/adam8687)** &nbsp;`Dec 2023 – May 2025` &nbsp;![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 > App that centralizes scholarships from multiple sources into a single searchable interface — designed to help students from underrepresented communities. Built with Swift, Xcode, SwiftSoup, Firebase, and Java-based scraping algorithms.
 
 ---
