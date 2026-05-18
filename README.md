@@ -18,7 +18,7 @@ B.S. Computer Science @ University of Texas at Austin &nbsp;|&nbsp; Texas Conver
 
 ## About Me
 
-CS student at UT Austin passionate about robotics, machine learning, and building software that solves real problems. I do research in robot learning with Texas Robotics, have built iOS apps, led tech at a startup, and competed in FIRST Robotics for 4 years. I enjoy working across the full stack — from training autonomous agents to designing mobile UIs.
+CS student at UT Austin passionate about robotics, machine learning, and building software that solves real problems. I do research in robot learning with Texas Robotics, have built iOS apps, led tech at a startup, and competed in FIRST Robotics for 4 years. I enjoy working across the full stack from training autonomous agents to designing mobile UIs.
 
 ---
 
