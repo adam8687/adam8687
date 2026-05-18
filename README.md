@@ -7,7 +7,7 @@
 
 <div align="center">
 
-### 👋 Hi, I'm Adam
+### Hi, I'm Adam
 
 Welcome to my GitHub! I'm a passionate developer who loves building cool things with code. Feel free to explore my projects and reach out!
 
@@ -17,7 +17,7 @@ Welcome to my GitHub! I'm a passionate developer who loves building cool things 
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 <p>
@@ -49,12 +49,7 @@ Welcome to my GitHub! I'm a passionate developer who loves building cool things 
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adam8687&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adam8687&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
+## GitHub Stats
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=adam8687&theme=tokyonight&hide_border=true" />
@@ -62,7 +57,7 @@ Welcome to my GitHub! I'm a passionate developer who loves building cool things 
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 
 <div align="center">
 
