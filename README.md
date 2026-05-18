@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0d1117&height=150&section=header&text=Adam Mohiuddin&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=55&descAlignY=80&descAlign=50&descSize=20" />
-
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0d1117&height=150&section=header&text=adam8687&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=Software%20Developer&descAlignY=80&descAlign=50&descSize=20" />
 </div>
 
 ---
