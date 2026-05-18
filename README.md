@@ -10,8 +10,6 @@
 
 B.S. Computer Science @ University of Texas at Austin &nbsp;|&nbsp; Texas Convergent &nbsp;|&nbsp; Welch Scholar &nbsp;|&nbsp; FRI Researcher
 
-[![GitHub](https://img.shields.io/badge/GitHub-adam8687-181717?style=for-the-badge&logo=github)](https://github.com/adam8687)
-
 </div>
 
 ---
@@ -99,7 +97,6 @@ B.S. Computer Science
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-adam8687-181717?style=for-the-badge&logo=github)](https://github.com/adam8687)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-adam--mohiuddin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adam-mohiuddin/)
 
 </div>
