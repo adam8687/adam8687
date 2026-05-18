@@ -18,7 +18,7 @@ B.S. Computer Science @ University of Texas at Austin &nbsp;|&nbsp; Texas Conver
 
 ## About Me
 
-CS student at UT Austin passionate about robotics, machine learning, and building software that solves real problems. I do research in robot learning with Texas Robotics, have built iOS apps, led tech at a startup, and competed in FIRST Robotics for 4 years. I enjoy working across the full stack from training autonomous agents to designing mobile UIs.
+CS student at UT Austin passionate about robotics, machine learning, and building software that solves real problems. I do research in robot learning with Texas Robotics, have built iOS apps, led tech at a startup, and competed in FIRST Robotics for 4 years. I enjoy working across the full stack — from training autonomous agents to designing mobile UIs.
 
 ---
 
@@ -94,6 +94,7 @@ B.S. Computer Science
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-adam8687-181717?style=for-the-badge&logo=github)](https://github.com/adam8687)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-adam--mohiuddin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adam-mohiuddin/)
 
 </div>
 
