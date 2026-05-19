@@ -16,7 +16,7 @@ B.S. Computer Science @ University of Texas at Austin &nbsp;|&nbsp; Texas Conver
 
 ## About Me
 
-CS student at UT. I'm passionate about exploring new applications of innovative software solutions across multiple disciplines, including engineering, entrepreneurship, and research.
+CS student at UT Austin passionate about robotics, machine learning, and building software that solves real problems. I do research in robot learning with Texas Robotics, have built iOS apps, led tech at a startup, and competed in FIRST Robotics for 4 years. I enjoy working across the full stack — from training autonomous agents to designing mobile UIs.
 
 ---
 
@@ -27,8 +27,17 @@ CS student at UT. I'm passionate about exploring new applications of innovative 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+</p>
+
+### Frameworks & Libraries
+<p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 </p>
 
 ### Tools & Platforms
@@ -37,8 +46,8 @@ CS student at UT. I'm passionate about exploring new applications of innovative 
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MuJoCo-00897B?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenMV-2E8B57?style=for-the-badge&logoColor=white"/>
 </p>
 
@@ -80,8 +89,8 @@ CS student at UT. I'm passionate about exploring new applications of innovative 
 
 **University of Texas at Austin** &nbsp;`Aug 2025 – May 2028`
 B.S. Computer Science
-- Texas Convergent &nbsp;|&nbsp; Welch Scholar &nbsp;|&nbsp; Freshman Research Initiative
-- Coursework: Data Structures & Algorithms, Discrete Mathematics, Robot Learning, Multivariable Calculus...
+- Texas Convergent Member &nbsp;|&nbsp; Welch Scholar &nbsp;|&nbsp; Freshman Research Initiative
+- Coursework: Data Structures & Algorithms, Discrete Mathematics, Robot Learning, Multivariable Calculus
 
 ---
 
@@ -98,6 +107,7 @@ B.S. Computer Science
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-adam--mohiuddin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adam-mohiuddin/)
+[![Email](https://img.shields.io/badge/Email-adammohn06%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adammohn06@gmail.com)
 
 </div>
 
