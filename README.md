@@ -95,14 +95,12 @@ CS student at UT Austin passionate about AI, robotics, machine learning, and bui
     <td valign="top">
       <strong>University of Texas at Austin</strong> &nbsp;<code>Aug 2025 – May 2028</code><br/>
       B.S. Computer Science<br/>
-      <em>Coursework: Data Structures & Algorithms, Discrete Mathematics, Robot Learning, Multivariable Calculus</em>
     </td>
   </tr>
 </table>
 
 <br/>
 
-**Affiliations**
 
 <table>
   <tr>
