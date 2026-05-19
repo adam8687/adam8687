@@ -16,7 +16,7 @@ B.S. Computer Science @ University of Texas at Austin &nbsp;|&nbsp; Texas Conver
 
 ## About Me
 
-CS student at UT Austin passionate about robotics, machine learning, and building software that solves real problems. I do research in robot learning with Texas Robotics, have built iOS apps, led tech at a startup, and competed in FIRST Robotics for 4 years. I enjoy working across the full stack — from training autonomous agents to designing mobile UIs.
+CS student at UT. I'm passionate about exploring new applications of innovative software solutions across multiple disciplines, including engineering, entrepreneurship, and research.
 
 ---
 
@@ -80,8 +80,8 @@ CS student at UT Austin passionate about robotics, machine learning, and buildin
 
 **University of Texas at Austin** &nbsp;`Aug 2025 – May 2028`
 B.S. Computer Science
-- Texas Convergent Member &nbsp;|&nbsp; Welch Scholar &nbsp;|&nbsp; Freshman Research Initiative
-- Coursework: Data Structures & Algorithms, Discrete Mathematics, Robot Learning, Multivariable Calculus
+- Texas Convergent &nbsp;|&nbsp; Welch Scholar &nbsp;|&nbsp; Freshman Research Initiative
+- Coursework: Data Structures & Algorithms, Discrete Mathematics, Robot Learning, Multivariable Calculus...
 
 ---
 
