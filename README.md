@@ -16,7 +16,7 @@ B.S. Computer Science @ University of Texas at Austin &nbsp;|&nbsp; Texas Conver
 
 ## About Me
 
-CS student at UT Austin passionate about AI, robotics, machine learning, and building software that solves real problems. I do research in robot learning with Texas Robotics, develop scalable products with Texas Convergent, competed in FIRST Robotics for 4 years, and more. I enjoy working across the full stack, from training autonomous agents to designing mobile UIs.
+CS student at UT Austin passionate about robotics, machine learning, and building software that solves real problems. I do research in robot learning with Texas Robotics, have built iOS apps, led tech at a startup, and competed in FIRST Robotics for 4 years. I enjoy working across the full stack — from training autonomous agents to designing mobile UIs.
 
 ---
 
@@ -87,10 +87,39 @@ CS student at UT Austin passionate about AI, robotics, machine learning, and bui
 
 ## Education
 
-**University of Texas at Austin** &nbsp;`Aug 2025 – May 2028`
-B.S. Computer Science
-- Texas Convergent Member &nbsp;|&nbsp; Welch Scholar &nbsp;|&nbsp; Freshman Research Initiative
-- Coursework: Data Structures & Algorithms, Discrete Mathematics, Robot Learning, Multivariable Calculus
+<table>
+  <tr>
+    <td valign="top" width="60">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/University_of_Texas_at_Austin_logo.svg/120px-University_of_Texas_at_Austin_logo.svg.png" width="50"/>
+    </td>
+    <td valign="top">
+      <strong>University of Texas at Austin</strong> &nbsp;<code>Aug 2025 – May 2028</code><br/>
+      B.S. Computer Science<br/>
+      <em>Coursework: Data Structures & Algorithms, Discrete Mathematics, Robot Learning, Multivariable Calculus</em>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+**Affiliations**
+
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/adam8687/adam8687/main/assets/convergent.png" width="48"/><br/>
+      <sub><a href="https://convergent.utexas.edu"><strong>Texas Convergent</strong></a><br/>Member</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/adam8687/adam8687/main/assets/fri.png" width="48"/><br/>
+      <sub><a href="https://cns.utexas.edu/fri"><strong>Texas FRI</strong></a><br/>Researcher</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/Welch_Scholars-BF5700?style=for-the-badge&logoColor=white"/><br/>
+      <sub><strong>Welch Scholars</strong><br/>Scholar</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
