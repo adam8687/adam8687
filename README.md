@@ -89,7 +89,7 @@ CS student at UT Austin passionate about AI, robotics, machine learning, and bui
 
 <table>
   <tr>
-    <td valign="top" width="60">
+    <td valign="top" width="100">
       <img src="https://raw.githubusercontent.com/adam8687/adam8687/main/assets/ut.png" width="100"/>
     </td>
     <td valign="top">
