@@ -106,7 +106,7 @@ CS student at UT Austin passionate about AI, robotics, machine learning, and bui
   <tr>
     <td align="center" width="120">
       <img src="https://raw.githubusercontent.com/adam8687/adam8687/main/assets/convergent.png" width="48"/><br/>
-      <sub><a href="https://convergent.utexas.edu"><strong>Texas Convergent</strong></a><br/>Member</sub>
+      <sub><a href="https://txconvergent.org"><strong>Texas Convergent</strong></a><br/>Member</sub>
     </td>
     <td align="center" width="120">
       <img src="https://raw.githubusercontent.com/adam8687/adam8687/main/assets/fri.png" width="48"/><br/>
