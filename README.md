@@ -86,20 +86,17 @@ CS student at UT Austin passionate about AI, robotics, machine learning, and bui
 
 ## Projects
 
-**[UTransport](https://github.com/adam8687/UTransport)** &nbsp;`Spring 2026` &nbsp;![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-> Real-time campus transportation request app for UT Austin — connecting students with SureWalk escorts and PTS medical pickups through a live dispatch interface. Built with Expo, React Native, and Firebase.
+**[UTransport](https://github.com/adam8687/UTransport)** &nbsp;`Spring 2026` &nbsp;![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+> Real-time campus transportation request app for UT Austin — connecting students with SureWalk escorts and PTS medical pickups through a live dispatch interface. Built with Expo Router, real-time Firestore listeners, role-based routing, and animated route simulation using `react-native-reanimated`. Zero backend infrastructure required—all logic lives in Firestore security rules.
 
-**[PRISM](https://github.com/adam8687/PRISM)** &nbsp;`2026` &nbsp;![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-> Robotics imitation-learning project built around Robosuite + MuJoCo. Collects keyboard teleoperation demonstrations, stores trajectories in HDF5 format, trains a Behavioral Cloning policy with PyTorch for manipulation tasks.
+**[PRISM](https://github.com/adam8687/PRISM)** &nbsp;`2026` &nbsp;![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Robosuite](https://img.shields.io/badge/Robosuite-4B0082?style=flat-square&logoColor=white)
+> Robotics imitation-learning project built around Robosuite + MuJoCo. Collects keyboard teleoperation demonstrations, stores trajectories in HDF5 format, and trains a Behavioral Cloning policy with PyTorch for manipulation tasks. Includes both scripted baselines and end-to-end evaluation pipeline.
 
-**[Scholarship Finder iOS App](https://github.com/adam8687)** &nbsp;`Dec 2023 – May 2025` &nbsp;![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-> App that centralizes scholarships from multiple sources into a single searchable interface — designed to help students from underrepresented communities. Built with Swift, Xcode, SwiftSoup, Firebase.
+**[VLM-Evaluator](https://github.com/adam8687/VLM-Evaluator)** &nbsp;`2026` &nbsp;![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+> Browser-based dashboard for benchmarking Video Large Language Models on sequential manipulation tasks. Privacy-first design with 100% local video frame extraction via HTML5 Canvas. Multi-model support (OpenAI, Google Gemini, GitHub Models, Qwen) with deep analytics, error tagging, and head-to-head comparison matrices. Portable sessions with JSON export for collaboration.
 
-**GPU Acceleration & CUDA Projects** &nbsp;![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white) ![C%2B%2B](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logoColor=white)
-> Explored high-performance computing with NVIDIA CUDA, optimizing parallel algorithms for GPU execution. Experience with TensorRT for model optimization and deployment on Jetson edge devices.
-
-**NVIDIA Isaac Robotics** &nbsp;![Isaac](https://img.shields.io/badge/NVIDIA%20Isaac-76B900?style=flat-square&logo=nvidia&logoColor=white) ![ROS](https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white)
-> Explored NVIDIA's Isaac platform for autonomous robotics development, simulation, and perception pipeline optimization. Integrated with ROS for seamless robot control and sensor processing.
+**[ScholarSync](https://github.com/adam8687/ScholarSync)** &nbsp;`Dec 2023 – May 2025` &nbsp;![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white) ![UIKit](https://img.shields.io/badge/UIKit-147EFB?style=flat-square&logoColor=white)
+> iOS app that aggregates scholarship opportunities from across the web into a single, intuitive interface. Concurrently scrapes Fastweb, Scholarships.com, and Scholarships360 with SwiftSoup, merges results, and surfaces detailed scholarship views with bookmarking. Built entirely native in Swift with async/await concurrency and zero backend infrastructure.
 
 ---
 
