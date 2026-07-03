@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0d1117&height=160&section=header&text=Adam%20Mohiuddin&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=50&desc=CS%20%40%20UT%20Austin%20%7C%20Researcher%20%7C%20Builder&descAlignY=72&descSize=20&descColor=aaaaaa" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0d1117&height=160&section=header&text=Adam%20Mohiuddin&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=50&desc=CS%20%40%20University%20of%20Texas%20at%20Austin&descAlignY=75&descAlign=50"/>
 
 </div>
 
@@ -16,7 +16,7 @@ B.S. Computer Science @ University of Texas at Austin &nbsp;|&nbsp; Texas Conver
 
 ## About Me
 
-CS student at UT Austin passionate about AI, robotics, machine learning, and building software that solves real problems. I do research in robot learning with Texas Robotics, develop scalable products with Texas Convergent, competed in FIRST Robotics for 4 years, and more. I enjoy working across the full stack, from training autonomous agents to designing mobile UIs.
+CS student at UT Austin passionate about AI, robotics, machine learning, and building software that solves real problems. I do research in robot learning with Texas Robotics, develop scalable production systems, and create innovative solutions that bridge hardware and software. Experienced with parallel computing, GPU acceleration, and autonomous systems.
 
 ---
 
@@ -29,26 +29,38 @@ CS student at UT Austin passionate about AI, robotics, machine learning, and bui
   <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
 </p>
 
-### Frameworks & Libraries
+### ML & Robotics Frameworks
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MuJoCo-00897B?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Robosuite-4B0082?style=for-the-badge&logoColor=white"/>
+</p>
+
+### Web & Mobile
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 </p>
 
 ### Tools & Platforms
 <p>
+  <img src="https://img.shields.io/badge/NVIDIA%20CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NVIDIA%20Isaac-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MuJoCo-00897B?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenMV-2E8B57?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
 </p>
 
 ---
@@ -56,13 +68,13 @@ CS student at UT Austin passionate about AI, robotics, machine learning, and bui
 ## Experience
 
 **Research Assistant — Texas Robotics, UT Austin** &nbsp;`Jan 2026 – Present`
-> Conducting robot learning research via the Freshman Research Initiative. Training autonomous agents in Robosuite using Python, NumPy & ROS. Building a 75+ demonstration HDF5 dataset to study how unsafe data affects policy robustness.
+> Conducting robot learning research via the Freshman Research Initiative. Training autonomous agents in Robosuite using Python, NumPy & ROS. Building a 75+ demonstration HDF5 dataset to study how behavioral cloning generalizes across diverse manipulation tasks.
 
 **CTO — EcoCents** &nbsp;`Aug 2023 – Aug 2024`
-> Led development of a recycling incentive platform with a reverse vending machine + app companion. Designed UI/UX in Figma, implemented barcode scanning & gamification, engaged ~100 users. Won Honorable Mention for Innovation at Texas A&M High School Ideas Challenge.
+> Led development of a recycling incentive platform with a reverse vending machine + app companion. Designed UI/UX in Figma, implemented barcode scanning & gamification, engaged ~100 users. Won Houston Startup Award.
 
 **Software Member — FIRST Robotics, Westlake High School** &nbsp;`Aug 2021 – May 2025`
-> Contributed to 16 regional/state awards across 4 seasons including Championships and a Texas State Division title. Built LED signal systems, implemented computer vision for object/AprilTag detection using Python, LabVIEW, LimeLight & OpenMV.
+> Contributed to 16 regional/state awards across 4 seasons including Championships and a Texas State Division title. Built LED signal systems, implemented computer vision for object/AprilTag detection, and developed autonomous path planning algorithms.
 
 **Researcher — UT Austin High School Research Academy** &nbsp;`Jun 2024 – Jul 2024`
 > Analyzed bat emergence patterns at Congress Avenue Bridge using R and RStudio. Performed exploratory data analysis on cloud cover, temperature, and humidity datasets.
@@ -74,14 +86,20 @@ CS student at UT Austin passionate about AI, robotics, machine learning, and bui
 
 ## Projects
 
-**[UTransport](https://github.com/adam8687/UTransport)** &nbsp;`Spring 2026` &nbsp;![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-> Real-time campus transportation request app for UT Austin — connecting students with SureWalk escorts and PTS medical pickups through a live dispatch interface. Built with Expo, React Native, Firebase Firestore real-time listeners, and animated route simulation. Built for Texas Convergent Spring 2026.
+**[UTransport](https://github.com/adam8687/UTransport)** &nbsp;`Spring 2026` &nbsp;![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+> Real-time campus transportation request app for UT Austin — connecting students with SureWalk escorts and PTS medical pickups through a live dispatch interface. Built with Expo, React Native, and Firebase.
 
-**[PRISM](https://github.com/adam8687/PRISM)** &nbsp;`2026` &nbsp;![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![MuJoCo](https://img.shields.io/badge/MuJoCo-00897B?style=flat-square&logoColor=white)
-> Robotics imitation-learning project built around Robosuite + MuJoCo. Collects keyboard teleoperation demonstrations, stores trajectories in HDF5 format, trains a Behavioral Cloning policy with PyTorch, and evaluates it in simulation. Part of Texas Robotics FRI research.
+**[PRISM](https://github.com/adam8687/PRISM)** &nbsp;`2026` &nbsp;![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+> Robotics imitation-learning project built around Robosuite + MuJoCo. Collects keyboard teleoperation demonstrations, stores trajectories in HDF5 format, trains a Behavioral Cloning policy with PyTorch for manipulation tasks.
 
 **[Scholarship Finder iOS App](https://github.com/adam8687)** &nbsp;`Dec 2023 – May 2025` &nbsp;![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-> App that centralizes scholarships from multiple sources into a single searchable interface — designed to help students from underrepresented communities. Built with Swift, Xcode, SwiftSoup, Firebase, and Java-based scraping algorithms.
+> App that centralizes scholarships from multiple sources into a single searchable interface — designed to help students from underrepresented communities. Built with Swift, Xcode, SwiftSoup, Firebase.
+
+**GPU Acceleration & CUDA Projects** &nbsp;![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white) ![C%2B%2B](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logoColor=white)
+> Explored high-performance computing with NVIDIA CUDA, optimizing parallel algorithms for GPU execution. Experience with TensorRT for model optimization and deployment on Jetson edge devices.
+
+**NVIDIA Isaac Robotics** &nbsp;![Isaac](https://img.shields.io/badge/NVIDIA%20Isaac-76B900?style=flat-square&logo=nvidia&logoColor=white) ![ROS](https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white)
+> Explored NVIDIA's Isaac platform for autonomous robotics development, simulation, and perception pipeline optimization. Integrated with ROS for seamless robot control and sensor processing.
 
 ---
 
